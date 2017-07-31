@@ -1,0 +1,15 @@
+node_modules/
+start.sh
+# VIM
+*~
+*.swp
+.avoscloud/
+.idea/
+.sass-cache
+test/
+.DS_Store.avoscloud/
+.avoscloud/
+.leancloud/
+.leanignore
+.project
+gulpfile.js
