@@ -1,4 +1,4 @@
-# vue_blog
+# vue_demo
 
 > A Vue.js project
 
