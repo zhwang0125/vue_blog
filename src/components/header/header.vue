@@ -25,7 +25,7 @@
     height: 44px
     background: #ffffff
     border-bottom: 1px solid #e8e8e8
-    box-shadow: 0 0 4px rgb(0, 0, 0, .25)
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.25)
     transition: 0.3s
     z-index: 9
 
