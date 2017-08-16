@@ -10,7 +10,7 @@
   export default {
     methods: {
       menuShow() {
-        alert('菜单显示')
+        this.$emit('menuShow')
       }
     }
   }
